@@ -1,8 +1,8 @@
-# SPA-Marvel
+# Slider-de-imagens
 
 Apresentação:
 
-Olá, eu me chamo Nikolas tenho 20 anos e neste projeto eu criei um slide listando alguns personagens da Marvel.
+Olá, eu me chamo Nikolas tenho 21 anos e neste projeto eu criei um slide listando alguns personagens da Marvel.
 
 Tecnologias usadas:
 
